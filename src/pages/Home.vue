@@ -1,6 +1,6 @@
 <template>
     <div
-        class="min-h-screen bg-linear-to-b from-black via-neutral-950 to-black text-slate-100 flex items-center justify-center px-4">
+        class="min-h-screen bg-linear-to-b from-indigo-600 to-indigo-800 text-slate-100 flex items-center justify-center px-4">
         <div class="max-w-2xl w-full text-center">
             <div
                 class="inline-flex items-center gap-2 px-3 py-1 mb-6 text-xs font-medium rounded-full border border-white/10 bg-white/5 backdrop-blur">
@@ -21,8 +21,8 @@
             </p>
 
             <div class="flex flex-col items-center justify-center gap-3">
-                <a href="https://chromewebstore.google.com/detail/altmatch%E2%80%93product-alternat/cnagkakcgaplmmhbaapngkmijliogheo?authuser=0&hl=en" class="inline-flex items-center justify-center rounded-full px-6 py-3 text-lg font-semibold
-                 bg-emerald-500 hover:bg-emerald-400 text-black shadow-lg shadow-emerald-500/30
+                <a href="https://chromewebstore.google.com/detail/refmark%E2%80%93highlight-cite-re/jappoembiopelkogoeocpafhbdbefpbc?authuser=0&hl=de" class="inline-flex items-center justify-center rounded-full px-6 py-3 text-lg font-semibold
+                 bg-red-500 hover:bg-red-400 text-white shadow-lg shadow-red-500/30
                  transition-transform duration-150 hover:-translate-y-0.5">
                     {{ cta }}
                 </a>
